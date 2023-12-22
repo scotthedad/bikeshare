@@ -1,5 +1,6 @@
 # I just realized that i had to close and open new Terminals to refresh and see the correct output on the terminal, eg, even after code update or add, terminal won't show the output from the update or added codes. Not knowing this, I spent much time trying to debut my codes unecessarily.  Perhaps a disclaimer is warranted.
 # This comment is for Project 3 Git
+# this is for refactoring branch update
 
 import time
 import pandas as pd
